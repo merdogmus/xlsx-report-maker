@@ -1,0 +1,30 @@
+{
+    "temperature": {
+        "db_file_name": "veri.db",
+        "table_name": "havaDurumu",
+        "table_type": "type1",
+        "ts_column_name": "timestamp",
+        "column_name": ""
+    },
+    "humidity ":{
+        "db_file_name": "veri.db",
+        "table_name": "havaDurumu",
+        "table_type": "type1",
+        "ts_column_name": "timestamp",
+        "column_name": ""
+    },
+    "pressure": {
+        "db_file_name": "veri.db",
+        "table_name": "havaDurumu",
+        "table_type": "type1",
+        "ts_column_name": "timestamp",
+        "column_name": ""
+    },
+    "rate": {
+        "db_file_name": "data.db",
+        "table_name": "usdTlRate",
+        "table_type": "type1",
+        "ts_column_name": "stamp",
+        "column_name": ""
+    }
+}

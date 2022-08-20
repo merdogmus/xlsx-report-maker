@@ -1,0 +1,5 @@
+# Required libraries to install
+# Use the command below to install libraries from this file
+# pip install -r requirements.txt
+xlsxwriter
+dateutil
